@@ -1,0 +1,23 @@
+*{
+    font-family: cursive;
+}
+.navbar{
+    background-color: aqua;
+    padding: 10px;
+    margin-top: 0;
+}
+a{
+    color: red;
+    text-decoration: none;
+    margin-left: 10px;
+}
+body{
+    margin: 0% ;
+}
+.float-right{
+    float: right;
+}
+.btn{
+    padding: 5px 10px 5px 10px;
+
+}
